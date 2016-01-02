@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+*.swp
+db.development.sqlite
+db.test.sqlite
+db.production.sqlite
